@@ -1,0 +1,46 @@
+.data{
+    margin-left: 300px;
+}
+.spa{
+    width: 400px;
+    height: 0px;
+    margin-inline: 210px;
+}
+.pd{
+    
+    width: 440px;
+    background-color: rgb(233, 229, 222);
+    border-radius: 10px;
+}
+.skill{
+    width: 440px;
+    height: 90px;
+    background-color: rgb(233, 229, 222 );
+    border-radius: 10px;
+}
+.we{
+    width: 440px;
+    height: 110px;
+    background-color: rgb(233, 229, 222);
+    border-radius: 10px;
+}
+.ed{
+    width: 440px;
+    height: 125px;
+    background-color: rgb(233, 229, 222);
+    border-radius: 10px;
+}
+.hb{
+    width: 440px;
+    background-color: rgb(233, 229, 222);
+    border-radius: 10px;
+}
+legend{
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgba(188, 204, 202, 0.89);
+    border-radius: 4px;
+    border-style: outset;
+    
+}
